@@ -13,3 +13,10 @@ Topik asynchronous memang termasuk salah satu topik yang tidak terlalu mudah unt
 tapi ada istilah �practice makes perfect�. Semakin sering di praktekkan semakin paham. 
 Tapi praktek tanpa memahami konsep juga buta, terlalu banyak trial and error dan makan waktu. 
 Menurut saya cara ideal untuk memahami asynchronous dengan memahami konsepnya adalah secara bertahap dan mempraktekkannya. 
+
+Link Async-Await :
+https://github.com/Rohmatul1/pbd-asynch/tree/master/async-await
+Link Callback :
+https://github.com/Rohmatul1/pbd-asynch/tree/master/callback
+Link Promise :
+https://github.com/Rohmatul1/pbd-asynch/tree/master/promise
